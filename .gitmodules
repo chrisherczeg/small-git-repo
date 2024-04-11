@@ -1,0 +1,9 @@
+[submodule "modules/sshkeys"]
+	path = modules/sshkeys
+	url = https://github.com/puppetlabs/puppetlabs-sshkeys.git
+[submodule "modules/ntp"]
+	path = modules/ntp
+	url = https://github.com/puppetlabs/puppetlabs-ntp.git
+[submodule "modules/firewall"]
+	path = modules/firewall
+	url = https://github.com/puppetlabs/puppetlabs-firewall.git
